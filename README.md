@@ -8,6 +8,6 @@
 * They have eliminated single-point entry data hacks by using a decentralised network. 
 * They are considered a fintech company as they support financial institutions for credit rating, indentify verifaction and fraud reduction.
 
+## ![Spring Labs](/spinglabs.png "Spring Labs images.")
 
-
-
+### Julianne and Michelle
